@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.spring.model.User;
-
+//testing for second commit
 @Controller
 public class HomeController {
 
